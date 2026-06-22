@@ -1,0 +1,2 @@
+google-adk[extensions]>=2.3.0
+litellm>=1.83.7
